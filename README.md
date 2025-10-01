@@ -44,3 +44,5 @@ Ele permite **adicionar, visualizar e excluir tarefas** de forma interativa.
 ## ✨ Autor
 
 Projeto desenvolvido por **Paulo Caetano Neto** 👨‍💻
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/130397138?v=4" width=115><br><sub>Paulo Caetano</sub>](https://github.com/pcn-dev)
